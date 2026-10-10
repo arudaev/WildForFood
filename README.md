@@ -1,4 +1,8 @@
-# WildForFood 🐾🍪 <img src="https://user-images.githubusercontent.com/66517969/106664155-bbd95300-65b5-11eb-91d8-ac80ed55d6ab.png" width="300" align="right">
+<p align="center">
+  <img src=".github/banner.png" alt="WildForFood – a hand-drawn banner: a lion, a fox and a bear creeping toward a plate of cookies" width="100%">
+</p>
+
+# WildForFood 🐾🍪
 
 Experience the thrill of protecting your cookies in "WildForFood," a low-poly indie game crafted for the January Showcase. This game symbolizes my learning journey with Unity Learn and showcases the skills I've acquired. 
 
